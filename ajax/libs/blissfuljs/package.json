@@ -17,19 +17,14 @@
   ],
   "author": "Lea Verou",
   "license": "MIT",
-  "homepage": "http://blissfuljs.com",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/LeaVerou/bliss.git",
-    "fileMap": [
-      {
-        "basePath": "",
-        "files": [
-          "bliss.js",
-          "bliss.min.js",
-          "bliss.shy*.js"
-        ]
-      }
-    ]
-  }
+  "homepage": "https://blissfuljs.com",
+  "npmName": "blissfuljs",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "bliss!(._.)*"
+      ]
+    }
+  ]
 }
